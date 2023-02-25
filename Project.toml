@@ -1,0 +1,9 @@
+name = "HW4"
+uuid = "661844f9-4916-4c0e-a807-e65e80ad06aa"
+authors = ["forrest "]
+version = "0.1.0"
+
+[deps]
+Infiltrator = "5903a43b-9cc3-4c30-8d17-598619ec4e9b"
+LinearAlgebra = "37e2e46d-f89d-539d-b4ee-838fcccc9c8e"
+Random = "9a3f8284-a2c9-5f02-9a11-845980a1fd5c"
