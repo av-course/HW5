@@ -1,8 +1,8 @@
-module HW4
+module HW5
 
 using LinearAlgebra
 using Random
 
 include("main.jl")
 
-end # module HW4
+end # module HW5
